@@ -13,7 +13,7 @@ Inspirado na hype **“Natty or Not”** do fisiculturismo, este Lab da **DIO** 
 Mais do que acompanhar tendências, a proposta aqui é **entender o uso prático e consciente dessas ferramentas**, indo além do hype e do efeito visual imediato.
 
 
-## 🎯 Bora pro desafio!? 💪🤓
+### 🎯 Bora pro desafio!? 💪🤓
 
 
 # Projeto: Plantas do Mundo Digital
