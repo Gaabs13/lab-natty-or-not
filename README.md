@@ -2,7 +2,7 @@
 Como Vencer na Era das IAs Generativas
 
 
-## 🚀 Introdução
+### 🚀 Introdução
 
 > **Woooow! Look at this 👀**  
 > Um experimento sobre o que é natural — e o que apenas parece ser.
@@ -12,17 +12,14 @@ Inspirado na hype **“Natty or Not”** do fisiculturismo, este Lab da **DIO** 
 
 Mais do que acompanhar tendências, a proposta aqui é **entender o uso prático e consciente dessas ferramentas**, indo além do hype e do efeito visual imediato.
 
----
 
 ## 🎯 Bora pro desafio!? 💪🤓
 
----
 
 # Projeto: Plantas do Mundo Digital
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/cb10e2d4-dd90-4654-98d7-883e2bed42e7" />
 
----
 
 ## 📒 Descrição
 
@@ -37,8 +34,6 @@ Aqui, a IA atua como **extensão do processo humano** — apoiando a comunicaç�
 O experimento propõe um uso possível para **educadores, estudantes, instituições e criadores**, onde a tecnologia não substitui o pensamento, mas **amplifica a capacidade de organizar, traduzir e compartilhar conhecimento**.
 
 No fim, este projeto é menos sobre plantas digitais e mais sobre **cultivar ideias** em um ambiente onde **arte, cultura e tecnologia** coexistem em constante transformação.
-
----
 
 ## 🤖 Tecnologias Utilizadas
 
@@ -56,8 +51,6 @@ Este projeto combina **IA generativa**, ferramentas de organização de conhecim
   - **Rust** — documentação oficial  
   - **React** — documentação oficial  
   - **Python** — documentação oficial  
-
----
 
 ## 🧐 Processo de Criação
 
@@ -79,8 +72,6 @@ O script final foi aplicado em uma ferramenta de geração de vídeo por IA, com
 ### Refinamento conceitual
 Ajustes finais garantiram que a tecnologia **servisse ao conteúdo** — e não o contrário.
 
----
-
 ## 🚀 Resultados
 
 O resultado é uma **peça audiovisual curta, clara e funcional**, que demonstra ser possível:
@@ -91,8 +82,6 @@ O resultado é uma **peça audiovisual curta, clara e funcional**, que demonstra
 - Produzir materiais **replicáveis** para ensino, apresentação ou documentação
 
 O projeto funciona tanto como **exemplo prático** quanto como **prova de conceito** para aplicações educacionais, institucionais ou experimentais.
-
----
 
 ## 💭 Reflexão
 
